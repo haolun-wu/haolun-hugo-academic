@@ -1,15 +1,15 @@
 ---
 title: Haolun Wu
-role: Ph.D. Candidate
+role: Ph.D. Candidate in CS, Prev. Intern @Google Research, MSR
 # Short bio (displayed in user profile at end of posts)
-bio: Haolun Wu is an assistant professor of computer science and engineering at the University of California Riverside. Her research interests include natural language processing, machine learning, and artificial intelligence. She leads the Natural Language Processing group, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient.
+# bio: Haolun Wu is an assistant professor of computer science and engineering at the University of California Riverside. Her research interests include natural language processing, machine learning, and artificial intelligence. She leads the Natural Language Processing group, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient.
 
 interests:
-  - Machine learning
-  - Natural language processing
-  - Natural language generation
-  - Automatic summarization
-  - Trustworthy and efficient AI
+  - Information Retrieval
+  - Recommender System
+  - Information Extraction
+  - LLMs
+  - Diffusion
 
 # Social/Academic Networking
 # For available general icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -22,38 +22,44 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/yuedongcs
+    link: https://twitter.com/Haolun_Wu0203
     label: Follow me on Twitter
     display:
       header: true
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.ca/citations?user=WYkn4loAAAAJ
+    link: https://scholar.google.com/citations?user=-KcBDLcAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/yuedongcs
+    link: https://github.com/haolun-wu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/yuedongcs/
+    link: https://www.linkedin.com/in/haolun-wu-23ba08133/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+# Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, Riverside
-    url: https://www.ucr.edu/
+  - name: Mila - Quebec AI Institue
+    url: https://mila.quebec/en/person/haolun-wu/
+  - name: McGill University
+    url: https://www.cs.mcgill.ca/
+  - name: Google Research
+    url: https://research.google/
 
+# Education to show in About widget
 # Education to show in About widget
 education:
   courses:
-    - course: "PhD in Computer Science "
-      institution: "McGill University "
-      year: 2022
-    - course: MSc & BSc in Mathematics
-      institution: University of Ottawa
-      year: 2016
-    - course: Clinical Medicine
-      institution: Xi'an Jiaotong University (西安交通大学)
-      year: 2009
+  - course: Ph.D. in Computer Science
+    institution: Mila & McGill University
+    year: 2025
+  - course: M.Sc. in Computer Science
+    institution: Mila & McGill University
+    year: 2021
+  - course: B.Eng. in Computer Science
+    institution: Northeastern University
+    year: 2019
 superuser: true
 status:
   icon: ☕️
@@ -62,11 +68,13 @@ highlight_name: true
 first_name: Yue
 email: ""
 ---
-Hi, I am Yue (/yoo-eh/) Dong, an assistant professor of computer science and engineering at [the University of California, Riverside](https://www1.cs.ucr.edu/). I obtained my PhD in Computer Science at [McGill University](http://cs.mcgill.ca) and [Mila](https://mila.quebec), supervised by Dr. [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). I was fortunate to intern at [Google AI](https://ai.google/), [AI2](https://allenai.org/), [Microsoft](https://www.microsoft.com/en-us/research/), and [Noah’s Ark Lab](http://dev3.noahlab.com.hk/) during my PhD.
+I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu), one of the most prosperous cities in China with a 4,000-year history of human habitation. I spent my first 18 years in my hometown before traveling to different places around the world. 
 
-My research interests include natural language processing, machine learning, and artificial intelligence. I lead the Natural Language Processing group at UCR, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient.  I am looking for self-motivated PhDs / masters / interns to work in the area of NLP, please consider [applying](https://www1.cs.ucr.edu//graduate/admissions/overview) if you are interested in working with me. 
-
-I cannot advise more master's students at UCR in 2023. Due to the high volume of requests, I won't be able to respond to further emails on this matter. 
+I am a Ph.D. candidate at [McGill University](https://www.mcgill.ca/about/history) and [Mila](https://mila.quebec/en/) (the world's largest AI community led by [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)). 
+I am delighted in working with [Xue (Steve) Liu](https://scholar.google.com/citations?user=rfLIRakAAAAJ&hl=en), [Joelle Pineau](https://scholar.google.com/citations?user=CEt6_mMAAAAJ&hl=en), and [Laurent Charlin](https://scholar.google.com/citations?user=Cul0g2YAAAAJ&hl=en).
+I am also honored to collaborate closely with [Fernando Diaz](https://scholar.google.com/citations?user=212SLn0AAAAJ&hl=en) and have him on my supervisory committee.
+My research interests include: Information Retrieval, Recommender System, Fairness, Continual Learning, etc.
+I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
 
  {{< icon name="graduation-cap" pack="fas" >}} {{< staticref "phd_thesis/" "newtab" >}} PhD Thesis {{< /staticref >}}|
  {{< icon name="book-reader" pack="fas" >}} {{< staticref "uploads/research_statement.pdf" "newtab" >}} Research Statement {{< /staticref >}} |
