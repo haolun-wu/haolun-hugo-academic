@@ -1,83 +1,84 @@
 ---
-title: Haolun Wu
-role: Ph.D. Candidate in CS, Prev. Intern @Google Research, MSR
-# Short bio (displayed in user profile at end of posts)
-# bio: Haolun Wu is an assistant professor of computer science and engineering at the University of California Riverside. Her research interests include natural language processing, machine learning, and artificial intelligence. She leads the Natural Language Processing group, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient.
+# Display name
+title: Alice Wu 吳恩達
 
+# Full name (for SEO)
+first_name: Alice
+last_name: Wu
+
+# Status emoji
+status:
+  icon: ☕️
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: Professor of Artificial Intelligence
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+# Interests to show in About widget
 interests:
+  - Artificial Intelligence
+  - Computational Linguistics
   - Information Retrieval
-  - Recommender System
-  - Information Extraction
-  - LLMs
-  - Diffusion
+
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
-# For available general icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-# For a list of icons, see: https://www.w3schools.com/icons/icons_reference.asp
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Haolun_Wu0203
+    link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
       header: true
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=-KcBDLcAAAAJ&hl=en
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/haolun-wu
+    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/haolun-wu-23ba08133/
+    link: https://www.linkedin.com/
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Mila - Quebec AI Institue
-    url: https://mila.quebec/en/person/haolun-wu/
-  - name: McGill University
-    url: https://www.cs.mcgill.ca/
-  - name: Google Research
-    url: https://research.google/
 
-# Education to show in About widget
-# Education to show in About widget
-education:
-  courses:
-  - course: Ph.D. in Computer Science
-    institution: Mila & McGill University
-    year: 2025
-  - course: M.Sc. in Computer Science
-    institution: Mila & McGill University
-    year: 2021
-  - course: B.Eng. in Computer Science
-    institution: Northeastern University
-    year: 2019
-superuser: true
-status:
-  icon: ☕️
-last_name: Wu
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Highlight the author in author lists? (true/false)
 highlight_name: true
-first_name: Yue
-email: ""
 ---
-I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu), one of the most prosperous cities in China with a 4,000-year history of human habitation. I spent my first 18 years in my hometown before traveling to different places around the world. 
 
-I am a Ph.D. candidate at [McGill University](https://www.mcgill.ca/about/history) and [Mila](https://mila.quebec/en/) (the world's largest AI community led by [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)). 
-I am delighted in working with [Xue (Steve) Liu](https://scholar.google.com/citations?user=rfLIRakAAAAJ&hl=en), [Joelle Pineau](https://scholar.google.com/citations?user=CEt6_mMAAAAJ&hl=en), and [Laurent Charlin](https://scholar.google.com/citations?user=Cul0g2YAAAAJ&hl=en).
-I am also honored to collaborate closely with [Fernando Diaz](https://scholar.google.com/citations?user=212SLn0AAAAJ&hl=en) and have him on my supervisory committee.
-My research interests include: Information Retrieval, Recommender System, Fairness, Continual Learning, etc.
-I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
-
- {{< icon name="graduation-cap" pack="fas" >}} {{< staticref "phd_thesis/" "newtab" >}} PhD Thesis {{< /staticref >}}|
- {{< icon name="book-reader" pack="fas" >}} {{< staticref "uploads/research_statement.pdf" "newtab" >}} Research Statement {{< /staticref >}} |
-{{< icon name="adversal" pack="fab" >}} {{< staticref "https://instant.1point3acres.com/thread/890304" "newtab" >}} 招生 {{< /staticref >}} |
-
+Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
