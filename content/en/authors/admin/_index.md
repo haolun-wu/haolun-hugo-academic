@@ -1,8 +1,8 @@
 ---
-title: Yue Dong
-role: Assistant Professor
+title: Haolun Wu
+role: Ph.D. Candidate
 # Short bio (displayed in user profile at end of posts)
-bio: Yue Dong is an assistant professor of computer science and engineering at the University of California Riverside. Her research interests include natural language processing, machine learning, and artificial intelligence. She leads the Natural Language Processing group, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient. 
+bio: Haolun Wu is an assistant professor of computer science and engineering at the University of California Riverside. Her research interests include natural language processing, machine learning, and artificial intelligence. She leads the Natural Language Processing group, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient.
 
 interests:
   - Machine learning
@@ -10,7 +10,7 @@ interests:
   - Natural language generation
   - Automatic summarization
   - Trustworthy and efficient AI
- 
+
 # Social/Academic Networking
 # For available general icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 # For a list of icons, see: https://www.w3schools.com/icons/icons_reference.asp
@@ -41,7 +41,7 @@ social:
 organizations:
   - name: University of California, Riverside
     url: https://www.ucr.edu/
-    
+
 # Education to show in About widget
 education:
   courses:
@@ -57,7 +57,7 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Dong
+last_name: Wu
 highlight_name: true
 first_name: Yue
 email: ""
