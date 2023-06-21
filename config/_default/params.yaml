@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: personal
-  theme_night: personal
-  font: personal
-  font_size: m
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 
@@ -18,11 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Personal website of Yue Dong.'
-    twitter: 'yuedong'
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''  
   verification:
     google: ''
     baidu: ''
@@ -32,7 +34,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     show_logo: true
     show_language: false
     show_day_night: true
@@ -43,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yue Dong. This website is built using [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/). '
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -61,31 +63,31 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
-    extra_languages:
-      - python
-      - latex
-      - EmacsLisp
-    # theme-light: nord
-    theme: github-dark
+    theme_light: github-light
+    theme_dark: dracula
   math:
-    enable: true
+    enable: false
   privacy_pack:
     enable: false
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: 'utterances'
+    provider: ''
     disqus:
       shortname: ''
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     provider: wowchemy
     algolia:
