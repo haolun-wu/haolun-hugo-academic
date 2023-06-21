@@ -65,7 +65,7 @@ status:
   icon: ☕️
 last_name: Wu
 highlight_name: true
-first_name: Yue
+first_name: Haolun
 email: ""
 ---
 I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu), one of the most prosperous cities in China with a 4,000-year history of human habitation. I spent my first 18 years in my hometown before traveling to different places around the world. 

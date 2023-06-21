@@ -16,15 +16,15 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: yue.dong[AT]ucr.edu
+  email: haolun.wu[AT]mail.mcgill.ca
   phone: 
   address:
     street:
-    city: Riverside, CA
-    region: USA
+    city: Montreal, Quebec
+    region: Canada
     postcode:
-    country: USA
-    country_code: USA
+    country: Canada
+    country_code: Canada
   coordinates:
     latitude: 
     longitude: 
@@ -35,7 +35,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/yuedongcs' 
+      link: 'https://twitter.com/Haolun_Wu0203' 
 
 design:
   columns: '2'
