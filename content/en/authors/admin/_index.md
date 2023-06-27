@@ -44,8 +44,8 @@ organizations:
     url: https://mila.quebec/en/person/haolun-wu/
   - name: McGill University
     url: https://www.cs.mcgill.ca/
-  - name: Google Research
-    url: https://research.google/
+#  - name: Google Research
+#    url: https://research.google/
 
 # Education to show in About widget
 # Education to show in About widget
