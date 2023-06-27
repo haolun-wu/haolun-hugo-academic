@@ -52,13 +52,13 @@ organizations:
 education:
   courses:
   - course: Ph.D. in Computer Science
-    institution: Mila & McGill University
+    institution: McGill University & Mila
     year: 2025 (Expected)
   - course: M.Sc. in Computer Science
-    institution: Mila & McGill University
+    institution: McGill University & Mila
     year: 2021
   - course: B.Eng. in Computer Science
-    institution: Northeastern University
+    institution: Northeastern University 
     year: 2019
 superuser: true
 status:
