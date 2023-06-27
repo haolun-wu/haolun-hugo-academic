@@ -40,8 +40,8 @@ experience:
     location: Mountain View, USA
     date_start: '2022-11-28'
     date_end: '2023-02-24'
-    description: |1-
-        * Propose density-based user representation through Gaussian Process Regression for multi-interest retrieval.
+#    description: |1-
+#        * Propose density-based user representation through Gaussian Process Regression for multi-interest retrieval.
   - title: Support Researcher, PhD Intern
     company: Huawei Noah's Ark Lab
     company_url: ''
@@ -49,9 +49,9 @@ experience:
     location: Montreal, Canada
     date_start: '2021-06-01'
     date_end: '2022-06-30'
-    description: |2-
-        * Data importance of implicit feedback data for recommendation.
-        * Efficient use of auxiliary information in recommendation through self-supervised learning and contrastive alignment.
+#    description: |2-
+#        * Data importance of implicit feedback data for recommendation.
+#        * Efficient use of auxiliary information in recommendation through self-supervised learning and contrastive alignment.
   - title: _MSR x Mila_ Research Collaborator
     company: Microsoft Research
     company_url: ''
@@ -59,8 +59,8 @@ experience:
     location: Montreal, Canada
     date_start: '2020-09-01'
     date_end: '2021-06-01'
-    description: |1-
-        * Propose a multi-objective optimization framework for fairness-aware recommendation that adaptively balances accuracy and fairness for various stakeholders with Pareto optimality guarantee.
+#    description: |1-
+#        * Propose a multi-objective optimization framework for fairness-aware recommendation that adaptively balances accuracy and fairness for various stakeholders with Pareto optimality guarantee.
 
 
 design:

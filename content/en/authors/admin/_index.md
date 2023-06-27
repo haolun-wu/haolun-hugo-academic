@@ -37,7 +37,7 @@ social:
     link: https://www.linkedin.com/in/haolun-wu-23ba08133/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/HaolunWu_CV.pdf
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Mila - Quebec AI Institue
