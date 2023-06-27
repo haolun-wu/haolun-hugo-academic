@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Mila Research Collaborator
+  - title: _MSR x Mila_ Research Collaborator
     company: Microsoft Research
     company_url: ''
     company_logo: msr
@@ -52,7 +52,7 @@ experience:
     description: |2-
         * Data importance of implicit feedback data for recommendation.
         * Efficient use of auxiliary information in recommendation through self-supervised learning and contrastive alignment.
-  - title: Mila Research Collaborator
+  - title: _MSR x Mila_ Research Collaborator
     company: Microsoft Research
     company_url: ''
     company_logo: msr
