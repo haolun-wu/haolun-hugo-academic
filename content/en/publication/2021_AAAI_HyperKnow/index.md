@@ -70,7 +70,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- AAAI2021_Know
+- 2021_AAAI_HyperKnow
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

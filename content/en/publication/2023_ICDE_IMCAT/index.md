@@ -71,7 +71,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- ICDE2023_IMCAT
+- 2023_ICDE_IMCAT
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

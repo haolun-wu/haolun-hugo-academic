@@ -70,7 +70,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- CIKM2022_TIL
+- 2022_CIKM_TIL
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

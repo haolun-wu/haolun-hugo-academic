@@ -70,7 +70,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- SIGIR2022_JMEFair
+- 2022_SIGIR_JMEFair
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -1,5 +1,5 @@
 ---
-title: "Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for Multi-Behavior Recommendation"
+title: "2023_TOIS_Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for Multi-Behavior Recommendation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -21,12 +21,12 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-Date: "2022-09-01T00:00:00Z"
+Date: "2023-06-26T00:00:00Z"
 # doi: "10.1145/3477495.3532007"
 
 # Schedule page publish date (NOT publication's date).
 
-publishDate: "2022-08-01T00:00:00Z"
+publishDate: "2023-06-26T00:00:00Z"
 
 
 # Publication type.
@@ -36,8 +36,8 @@ publishDate: "2022-08-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv.2208.01849*
-publication_short: In *arXiv.2208.01849*
+publication: In *ACM Transactions on Information Systems*
+publication_short: In *TOIS 2023*
 
 abstract: Multi-types of behaviors (e.g., clicking, adding to cart, purchasing, etc.) widely exist in most real-world recommendation scenarios, which are beneficial to learn users’ multi-faceted preferences. As dependencies are explicitly exhibited by the multiple types of behaviors, effectively modeling complex behavior dependencies is crucial for multi-behavior prediction. The state-of-the-art multibehavior models learn behavior dependencies indistinguishably with all historical interactions as input. However, different behaviors may reflect different aspects of user preference, which means that some irrelevant interactions may play as noises to the target behavior to be predicted. To address the aforementioned limitations, we introduce multi-interest learning to the multi-behavior recommendation. More specifically, we propose a novel Coarse-to-fine Knowledge-enhanced Multi-interest Learning (CKML) framework to learn shared and behavior-specific interests for different behaviors. CKML introduces two advanced modules, namely Coarsegrained Interest Extracting (CIE) and Fine-grained Behavioral Correlation (FBC), which work jointly to capture fine-grained behavioral dependencies. CIE uses knowledge-aware information to extract initial representations of each interest. FBC incorporates a dynamic routing scheme to further assign each behavior among interests. Additionally, we use the self-attention mechanism to correlate different behavioral information at the interest level. Empirical results on three real-world datasets verify the effectiveness and efficiency of our model in exploiting multi-behavior data. Further experiments demonstrate the effectiveness of each module and the robustness and superiority of the shared and specific modelling paradigm for multi-behavior data.
 
@@ -75,7 +75,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Coarse-to-Fine
+- 2023_TOIS_Coarse-to-Fine
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
