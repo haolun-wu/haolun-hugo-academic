@@ -2,5 +2,4 @@
 draft = false
 +++
 
-- [Winter 2023] CS 260 - [Seminar in Natural Language Processing](https://docs.google.com/document/u/6/d/e/2PACX-1vT1rVIFWtAToTp5UMRD4uPhtG_BmNiIx9il_EowvNsBROqwoaMaLk7tCtWHD7CWpHb8TXJJ625NphtB/pub)
-- [Spring 2023] CS 173 - [Introduction to Natural Language Processing](https://sites.google.com/ucr.edu/cs173-23s/home)
+ - [School of Computer Science, McGill University] Teaching Assistant for COMP 597/598: "Applications of Machine Learning in Real World Systems." (Winter 2021/2022)
