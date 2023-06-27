@@ -73,11 +73,13 @@ I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu), one 
 I am a Ph.D. candidate at [McGill University](https://www.mcgill.ca/about/history) and [Mila](https://mila.quebec/en/) (the world's largest AI community led by [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)). 
 I am delighted in working with [Xue (Steve) Liu](https://scholar.google.com/citations?user=rfLIRakAAAAJ&hl=en), [Joelle Pineau](https://scholar.google.com/citations?user=CEt6_mMAAAAJ&hl=en), and [Laurent Charlin](https://scholar.google.com/citations?user=Cul0g2YAAAAJ&hl=en).
 I am also honored to collaborate closely with [Fernando Diaz](https://scholar.google.com/citations?user=212SLn0AAAAJ&hl=en) and have him on my supervisory committee.
-My research interests include: Information Retrieval, Recommender System, Fairness, Continual Learning, etc.
-I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
+My research interests include: Information Retrieval, Recommender System, LLMs, Trustworthy ML, etc.
+I am committed to building efficient and reliable systems for knowledge retrieval and decision-making.
 
- {{< icon name="graduation-cap" pack="fas" >}} {{< staticref "phd_thesis/" "newtab" >}} PhD Thesis {{< /staticref >}}|
- {{< icon name="book-reader" pack="fas" >}} {{< staticref "uploads/research_statement.pdf" "newtab" >}} Research Statement {{< /staticref >}} |
-{{< icon name="adversal" pack="fab" >}} {{< staticref "https://instant.1point3acres.com/thread/890304" "newtab" >}} 招生 {{< /staticref >}} |
+[//]: # ( {{< icon name="graduation-cap" pack="fas" >}} {{< staticref "phd_thesis/" "newtab" >}} PhD Thesis {{< /staticref >}}|)
+
+[//]: # ( {{< icon name="book-reader" pack="fas" >}} {{< staticref "uploads/research_statement.pdf" "newtab" >}} Research Statement {{< /staticref >}} |)
+
+[//]: # ({{< icon name="adversal" pack="fab" >}} {{< staticref "https://instant.1point3acres.com/thread/890304" "newtab" >}} 招生 {{< /staticref >}} |)
 
 {style="text-align: justify;"}
