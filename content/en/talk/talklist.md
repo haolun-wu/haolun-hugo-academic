@@ -1,16 +1,11 @@
 +++
 draft = false
 +++
-What future do we want with Artificial Intelligence?
-- [TEDx UCR](https://www.tedxucr.org/) - Riverside, May 18 2023
+Joint Multisided Exposure Fairness for Search and Recommendation
+- Invited Talk at Google Research, Jan. 2023
+- Invited Talk at Montreal AI Symposium / Mila, Sep. 2022 **[Contributed Talk]**
+- Invited Talk at Bell Canada, Aug. 2022
+- Invited Talk at Microsoft Bing, Apr. 2022
 
-Robust and Trustworthy NLP Through The Lens of Text Summarization 
-- Invited Talk at University of California - Riverside, March 2021
-- Invited Talk at University of National University of Singapore, March 2021
-- Invited Talk at Google AI, March 2021
-- Invited Talk at University of Waterloo, February 2021
-- Invited Talk at University of Utah, February 2021
-- Invited Talk at Simon Fraser University, February 2021
-- Invited Talk at HEC Montreal & Mila, February 2021
-- Invited Talk at University of Michigan - Dearborn, February 2021
-- Invited Talk at Queen's University, January 2021
+Multi-FR: A Multi-Objective Optimization Method for Achieving Two-sided Fairness in E-commerce Recommendation
+- Invited Talk at Microsoft Bing, Oct. 2021

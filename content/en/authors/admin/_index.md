@@ -9,7 +9,7 @@ interests:
   - Recommender System
   - Information Extraction
   - LLMs
-  - Diffusion
+  - Trustworthy ML
 
 # Social/Academic Networking
 # For available general icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

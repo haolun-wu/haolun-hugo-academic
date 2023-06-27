@@ -1,11 +1,13 @@
 +++
 draft = false
 +++
-### Fundings: 
-- UCR OASIS Internal Funding Awards, June 2023 
+
+[//]: # (### Fundings: )
+[//]: # (- UCR OASIS Internal Funding Awards, June 2023 )
 
 
 ### Academic Awards: 
+- 2023 SIGIR Student Travel Grant.
 - 2022 SIGIR Student Travel Grant.
 - 2021 Apple Scholars PhD Fellowship Nominee (1 out of 3 students at McGill University)
 - 2020-2022 Grad Excellence Award, McGill University
