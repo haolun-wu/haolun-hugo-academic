@@ -53,7 +53,7 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: Mila & McGill University
-    year: 2025
+    year: 2025 (Expected)
   - course: M.Sc. in Computer Science
     institution: Mila & McGill University
     year: 2021
