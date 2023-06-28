@@ -26,6 +26,28 @@ marketing:
   verification:
     google: ''
     baidu: ''
+# Contact (edit or remove options as required)
+
+email: haolun.wu[AT]mail.mcgill.ca
+phone:
+address:
+  street:
+  city: Montreal
+  region: QC
+  postcode:
+  country: Canada
+  country_code: CA
+coordinates:
+  latitude: '45.5041'
+  longitude: '-73.5747'
+directions:
+office_hours:
+appointment_url:
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter
+    link: 'https://twitter.com/HaolunWu_0203'
 
 # Site header
 
