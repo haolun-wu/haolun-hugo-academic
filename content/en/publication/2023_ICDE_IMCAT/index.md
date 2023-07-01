@@ -18,11 +18,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023"
+date: "2022-11-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 
-publishDate: "2023"
+publishDate: "2023-03-01"
 
 
 # Publication type.
