@@ -16,12 +16,12 @@ authors:
 
 
 
-date: "2021-10-01T00:00:00Z"
+date: "2021-10-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
 
-publishDate: "2021-10-01T00:00:00Z"
+publishDate: "2021-10-01"
 
 
 # Publication type.
