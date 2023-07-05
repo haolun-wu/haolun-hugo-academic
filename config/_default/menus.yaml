@@ -28,6 +28,9 @@ main:
   - name: Awards
     url: '/award/awardlist'
     weight: 80
+  - name: Awards
+    url: '/life'
+    weight: 90
 #  - name: Resources
 #    url: '/resource/resourcelist'
 #    weight: 90
