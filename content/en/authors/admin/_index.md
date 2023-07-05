@@ -68,9 +68,8 @@ highlight_name: true
 first_name: Haolun
 email: ""
 ---
-I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu) 🐼🌶🀄🍵🍶, a modern and prosperous city with a 4,000-year history of human habitation. I spent my first 18 years in my hometown before traveling to different places around the world. 
 
-Currently, I am a Ph.D. candidate at [McGill University](https://www.mcgill.ca/about/history) and [Mila](https://mila.quebec/en/) (one of the world's largest AI communities founded by [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)). 
+I am a Ph.D. candidate at [McGill University](https://www.mcgill.ca/about/history) and [Mila](https://mila.quebec/en/) (one of the world's largest AI communities founded by [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)). 
 I am delighted in working with [Xue (Steve) Liu](https://scholar.google.com/citations?user=rfLIRakAAAAJ&hl=en) and [Laurent Charlin](https://scholar.google.com/citations?user=Cul0g2YAAAAJ&hl=en).
 I am also honored to collaborate closely with [Fernando Diaz](https://scholar.google.com/citations?user=212SLn0AAAAJ&hl=en) and have him on my supervisory committee.
 My research interests include: Information Retrieval, Recommender System, LLMs, Trustworthy ML, etc.
