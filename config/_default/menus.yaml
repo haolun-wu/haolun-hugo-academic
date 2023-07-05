@@ -29,7 +29,7 @@ main:
     url: '/award/awardlist'
     weight: 80
   - name: Life
-    url: '/life'
+    url: '#life'
     weight: 90
 #  - name: Resources
 #    url: '/resource/resourcelist'
