@@ -24,6 +24,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Student Researcher
+    company: Google Research
+    company_url: ''
+    company_logo: google
+    location: New York, USA
+    date_start: '2023-08-28'
+    date_end: '2024-02-09'
   - title: _MSR x Mila_ Student Researcher
     company: Microsoft Research
     company_url: ''
@@ -33,7 +40,7 @@ experience:
     date_end: '2024-03-01'
 #    description: |1-
 #        * Research on topics (1) Multi-interest embedding, (2) Uncertainty embedding, and (3) Provider fairness in recommendation.
-  - title: Research Intern
+  - title: Student Researcher
     company: Google Research
     company_url: ''
     company_logo: google
