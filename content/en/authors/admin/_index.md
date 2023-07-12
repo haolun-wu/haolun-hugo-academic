@@ -5,11 +5,11 @@ role: Ph.D. Candidate in CS, Prev. Intern @Google Research, MSR
 # bio: Haolun Wu is an assistant professor of computer science and engineering at the University of California Riverside. Her research interests include natural language processing, machine learning, and artificial intelligence. She leads the Natural Language Processing group, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient.
 
 interests:
-  - Information Retrieval
-  - Recommender System
+  - Search, Retrieval, Recommendation
   - Information Extraction
-  - LLMs
-  - Trustworthy ML
+  - Knowledge Modeling
+  - Mixture-of-Experts
+  - AI Alignment
 
 # Social/Academic Networking
 # For available general icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
