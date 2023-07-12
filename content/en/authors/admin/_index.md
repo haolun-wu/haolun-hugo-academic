@@ -58,7 +58,7 @@ education:
     institution: McGill University & Mila
     year: 2021
   - course: B.Eng. in Computer Science
-    institution: Northeastern University 
+    institution: Northeastern University (CN)
     year: 2019
 superuser: true
 status:
