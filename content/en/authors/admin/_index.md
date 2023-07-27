@@ -40,10 +40,11 @@ social:
     link: uploads/HaolunWu_CV.pdf
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Mila - Quebec AI Institue
-    url: https://mila.quebec/en/person/haolun-wu/
   - name: McGill University
     url: https://www.cs.mcgill.ca/
+  - name: Mila - Quebec AI Institue
+    url: https://mila.quebec/en/person/haolun-wu/
+
 #  - name: Google Research
 #    url: https://research.google/
 
