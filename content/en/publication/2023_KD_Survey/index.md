@@ -24,7 +24,7 @@ date: "2023-08-08"
 
 # Schedule page publish date (NOT publication's date).
 
-publishDate: "2023-08-28"
+publishDate: "2023-08-08"
 
 
 # Publication type.
@@ -73,7 +73,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - 2023_arxiv_survey_KD
+  - 2023_KD_Survey
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

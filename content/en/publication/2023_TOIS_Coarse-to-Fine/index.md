@@ -21,7 +21,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-Date: "2023-06-26"
+date: "2023-06-26"
 # doi: "10.1145/3477495.3532007"
 
 # Schedule page publish date (NOT publication's date).
