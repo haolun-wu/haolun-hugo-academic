@@ -1,4 +1,4 @@
-]---
+---
 title: "Result Diversification in Search and Recommendation: A Survey"
 
 # Authors
