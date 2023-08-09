@@ -7,7 +7,7 @@ title: "Feature Representation Learning for Click-through Rate Prediction: A Rev
 authors:
 - Fuyuan Lyu 
 - Xing Tang
-- Dugang Liu, 
+- Dugang Liu
 - admin
 - Chen Ma
 - Xiuqiang He
