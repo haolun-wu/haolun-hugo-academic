@@ -1,17 +1,18 @@
 ---
-title: "Result Diversification in Search and Recommendation: A Survey"
+title: "Feature Representation Learning for Click-through Rate Prediction: A Review and New Perspectives"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Yansen Zhang
-  - Chen Ma
   - Fuyuan Lyu
-  - Bowei He
-  - Bhaskar Mitra
+  - Xing Tang
+  - Dugang Liu
+  - admin
+  - Chen Ma
+  - Xiuqiang He
   - Xue Liu
+  
 
 
 # Author notes (optional)
@@ -19,12 +20,12 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-Date: "2023-07-08"
+Date: "2023-02-08"
 # doi: "10.1145/3477495.3532007"
 
 # Schedule page publish date (NOT publication's date).
 
-publishDate: "2023-07-08"
+publishDate: "2023-02-08"
 
 
 # Publication type.
@@ -34,15 +35,15 @@ publishDate: "2023-07-08"
 publication_types: [ "2" ]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv e-print 2212.14464*
+publication: In *arXiv e-print 2302.02241*
 publication_short: In *arXiv 2023*
 
-abstract: Diversifying return results is an important research topic in retrieval systems in order to satisfy both the various interests of customers and the equal market exposure of providers. There has been growing attention on diversity-aware research during recent years, accompanied by a proliferation of literature on methods to promote diversity in search and recommendation. However, diversity-aware studies in retrieval systems lack a systematic organization and are rather fragmented. In this survey, we are the first to propose a unified taxonomy for classifying the metrics and approaches of diversification in both search and recommendation, which are two of the most extensively researched fields of retrieval systems. We begin the survey with a brief discussion of why diversity is important in retrieval systems, followed by a summary of the various diversity concerns in search and recommendation, highlighting their relationship and differences. For the survey's main body, we present a unified taxonomy of diversification metrics and approaches in retrieval systems, from both the search and recommendation perspectives. In the later part of the survey, we discuss the open research questions of diversity-aware research in search and recommendation in an effort to inspire future innovations and encourage the implementation of diversity in real-world systems.
+abstract: Representation learning has been a critical topic in machine learning. In Click-through Rate Prediction, most features are represented as embedding vectors and learned simultaneously with other parameters in the model. With the development of CTR models, feature representation learning has become a trending topic and has been extensively studied by both industrial and academic researchers in recent years. This survey aims at summarizing the feature representation learning in a broader picture and pave the way for future research. To achieve such a goal, we first present a taxonomy of current research methods on feature representation learning following two main issues: (i) which feature to represent and (ii) how to represent these features. Then we give a detailed description of each method regarding these two issues. Finally, the review concludes with a discussion on the future directions of this field.
 
 # Summary. An optional shortened abstract.
 summary: We propose a method to model users' multi-interets leanring from their multi-behavior.
 
-tags: [ Search, Recommendation, Diversity ]
+tags: [ Feature, CTR ]
 
 # Display this page in the Featured widget?
 featured: true
@@ -52,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2212.14464.pdf'
+url_pdf: 'https://arxiv.org/pdf/2302.02241.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
