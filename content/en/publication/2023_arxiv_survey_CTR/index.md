@@ -35,7 +35,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *arXiv e-print 2302.02241*
-publication_short: In *arXiv*
+publication_short: In *arXiv 2023*
 
 abstract: Representation learning has been a critical topic in machine learning. In Click-through Rate Prediction, most features are represented as embedding vectors and learned simultaneously with other parameters in the model. With the development of CTR models, feature representation learning has become a trending topic and has been extensively studied by both industrial and academic researchers in recent years. This survey aims at summarizing the feature representation learning in a broader picture and pave the way for future research. To achieve such a goal, we first present a taxonomy of current research methods on feature representation learning following two main issues: (i) which feature to represent and (ii) how to represent these features. Then we give a detailed description of each method regarding these two issues. Finally, the review concludes with a discussion on the future directions of this field.
 
