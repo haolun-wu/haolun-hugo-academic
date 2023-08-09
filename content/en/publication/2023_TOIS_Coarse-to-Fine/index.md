@@ -5,15 +5,15 @@ title: "Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Chang Meng
-- Ziqi Zhao
-- Wei Guo
-- Yingxue Zhang
-- admin
-- Chen Gao
-- Dong Li
-- Xiu Li
-- Ruiming Tang
+  - Chang Meng
+  - Ziqi Zhao
+  - Wei Guo
+  - Yingxue Zhang
+  - admin
+  - Chen Gao
+  - Dong Li
+  - Xiu Li
+  - Ruiming Tang
 
 
 # Author notes (optional)
@@ -33,7 +33,7 @@ publishDate: "2023-06-26"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: [ "2" ]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ACM Transactions on Information Systems*
@@ -44,7 +44,7 @@ abstract: Multi-types of behaviors (e.g., clicking, adding to cart, purchasing, 
 # Summary. An optional shortened abstract.
 summary: We propose a method to model users' multi-interets leanring from their multi-behavior.
 
-tags: [Recommendation, Knowledge-enhanced, Multi-interest]
+tags: [ Recommendation, Knowledge-enhanced, Multi-interest ]
 
 # Display this page in the Featured widget?
 featured: true
@@ -63,10 +63,10 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+  # Featured image
+  # To use, add an image named `featured.jpg/png` to your page's folder. 
 
-  
+
 
 
 # Associated Projects (optional).
@@ -75,7 +75,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 2023_TOIS_Coarse-to-Fine
+  - 2023_TOIS_Coarse-to-Fine
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -5,13 +5,13 @@ title: "Teacher-Student Architecture for Knowledge Distillation: A Survey"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Chengming Hu
-- Xuan Li
-- Dan Liu
-- admin
-- Xi Chen
-- Ju Wang
-- Xue Liu
+  - Chengming Hu
+  - Xuan Li
+  - Dan Liu
+  - admin
+  - Xi Chen
+  - Ju Wang
+  - Xue Liu
 
 
 # Author notes (optional)
@@ -31,7 +31,7 @@ publishDate: "2023-08-28"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: [ "2" ]
 
 # Publication name and optional abbreviated publication name.
 publication: In *arXiv e-print 2308.04268*
@@ -42,7 +42,7 @@ abstract: Although Deep neural networks (DNNs) have shown a strong capacity to s
 # Summary. An optional shortened abstract.
 summary: We propose a method to model users' multi-interets leanring from their multi-behavior.
 
-tags: [Knowledge Distillation, DNN]
+tags: [ Knowledge Distillation, DNN ]
 
 # Display this page in the Featured widget?
 featured: true
@@ -61,10 +61,10 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+  # Featured image
+  # To use, add an image named `featured.jpg/png` to your page's folder. 
 
-  
+
 
 
 # Associated Projects (optional).
@@ -73,7 +73,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 2023_arxiv_survey_KD
+  - 2023_arxiv_survey_KD
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
