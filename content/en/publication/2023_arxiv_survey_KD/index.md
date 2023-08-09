@@ -5,13 +5,13 @@ title: "Teacher-Student Architecture for Knowledge Distillation: A Survey"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Chengming Hu
-  - Xuan Li
-  - Dan Liu
-  - admin
-  - Xi Chen
-  - Ju Wang
-  - Xue Liu
+- Chengming Hu
+- Xuan Li
+- Dan Liu
+- admin
+- Xi Chen
+- Ju Wang
+- Xue Liu
 
 
 # Author notes (optional)
@@ -19,7 +19,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-Date: "2023-08-08"
+date: "2023-08-08"
 # doi: "10.1145/3477495.3532007"
 
 # Schedule page publish date (NOT publication's date).
