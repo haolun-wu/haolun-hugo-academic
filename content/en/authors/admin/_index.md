@@ -54,6 +54,7 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: McGill University & Mila
+    Committee: Steve X. Liu, Fernando Diaz, Laurent Charlin, Joëlle Pineau
     year: 2025 (Expected)
   - course: M.Sc. in Computer Science
     institution: McGill University & Mila
