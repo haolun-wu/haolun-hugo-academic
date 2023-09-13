@@ -73,10 +73,10 @@ email: ""
 I was born and grew up in [Chengdu](https://en.wikipedia.org/wiki/Chengdu) 🐼🌶🀄🍵🍶, a modern and prosperous city with a 4,000-year history of human habitation. I spent my first 18 years in my hometown before traveling to different places around the world.
 
 Currently, I am a Ph.D. candidate at [McGill University](https://www.mcgill.ca/about/history) and [Mila](https://mila.quebec/en/) (one of the world's largest AI communities founded by [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)). 
-I am delighted in working with [Xue (Steve) Liu](https://scholar.google.com/citations?user=rfLIRakAAAAJ&hl=en) and [Fernando Diaz](https://scholar.google.com/citations?user=212SLn0AAAAJ&hl=en) .
-I am also honored to collaborate closely with [Laurent Charlin](https://scholar.google.com/citations?user=Cul0g2YAAAAJ&hl=en) and have him on my supervisory committee.
-I am broadly interested in knowledge modeling, storage, and retrieval in information systems, and also the alignment to social good.
-I am honored to be the recipient of [Borealis AI Fellowship](https://www.borealisai.com/news/the-borealis-ai-2022-2023-fellowships-fostering-next-gen-research-talent/).
+I am delighted in working with [Xue (Steve) Liu](https://scholar.google.com/citations?user=rfLIRakAAAAJ&hl=en) and [Fernando Diaz](https://scholar.google.com/citations?user=212SLn0AAAAJ&hl=en).
+I also collaborate closely with [Laurent Charlin](https://scholar.google.com/citations?user=Cul0g2YAAAAJ&hl=en) and [Joelle Pineau](https://scholar.google.ca/citations?user=CEt6_mMAAAAJ&hl=en), and have them on my supervisory committee.
+My research interests include knowledge modeling, storage, and retrieval in information systems, and also the alignment to social good.
+I am honored to hold the [Borealis AI Fellowship](https://www.borealisai.com/news/the-borealis-ai-2022-2023-fellowships-fostering-next-gen-research-talent/).
 
 [//]: # ( {{< icon name="graduation-cap" pack="fas" >}} {{< staticref "phd_thesis/" "newtab" >}} PhD Thesis {{< /staticref >}}|)
 
