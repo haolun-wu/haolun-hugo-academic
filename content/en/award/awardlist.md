@@ -7,6 +7,7 @@ draft = false
 
 
 ### Academic Awards: 
+- 2023 [**Borealis AI Fellowship**](https://www.borealisai.com/news/the-borealis-ai-2022-2023-fellowships-fostering-next-gen-research-talent/). (1 out of 10 recipients)
 - 2023 SIGIR Student Travel Grant.
 - 2022 SIGIR Student Travel Grant.
 - 2021 Apple Scholars PhD Fellowship Nominee (1 out of 3 students at McGill University)
