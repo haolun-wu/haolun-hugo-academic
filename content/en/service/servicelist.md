@@ -12,8 +12,8 @@ draft = false
 - SIGIR 2022 (Session: Collaborative Filtering)
 
 ### Reviewer
-- 2024: ICLR
-- 2023: SIGIR, KDD, TKDD, ICTIR
-- 2022: AAAI, KDD, TKDD
+- [2024]: ICLR
+- [2023]: SIGIR, KDD, TKDD, ICTIR
+- [2022]: AAAI, KDD, TKDD
 
 
