@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Life"
+title = "Misc"
 #subtitle = "[All Services>>](/service/servicelist)"
 
 [design]
@@ -50,4 +50,4 @@ title = "Life"
  css_class = ""
 +++
 
-{{< readfromfile "/content/en/life/lifelist.md" 10 >}} 
+{{< readfromfile "/content/en/Misc/lifelist.md" 10 >}} 
